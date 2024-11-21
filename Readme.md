@@ -1,0 +1,5 @@
+# backend learning
+
+by chai aur code channel
+
+-[model link](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqazVsUTBnSExDbUlaWWphczI1T0dibl9YU3poQXxBQ3Jtc0tsU3VrUGVBRlNKUkZkbzZMVDFaY0xWdU1UdUFGLS1lZk9yTkVSVVoxU1M1dmQ5XzkybjJ0eXpVRGEtV1dhSnU5ajg2Q3l2WUNaM2hnMmltU1V0QVJUNE9laHphTy1yelJnR0RYQzNOMkliYURkeGpITQ&q=https%3A%2F%2Fapp.eraser.io%2Fworkspace%2FYtPqZ1VogxGy1jzIDkzj%3Forigin%3Dshare&v=9B4CvtzXRpc)
